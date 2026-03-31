@@ -1,0 +1,17 @@
+============================================================
+PRODIGY INFOTECH – Task-01: GPT-2 Text Generation
+============================================================
+
+PROMPT:
+  The future of artificial intelligence is
+
+────────────────────────────────────────────────────────────
+[Generated Sequence 1]
+The future of artificial intelligence is rapidly shifting, and it's not just AI that could drive the revolution. Even with all this talk about "new technologies," there are still areas where robots may be a better option than human assistants for most tasks today or tomorrow.
+- This post originally appeared at Forbes' blog . You can follow her on Twitter @natharabian
+
+────────────────────────────────────────────────────────────
+[Generated Sequence 2]
+The future of artificial intelligence is a question that needs to be answered," says Robert L. Schwartz, an emeritus professor in the Department's College of Biological Sciences and one author on papers published recently by The Economist (1) about how AI systems can adapt within human society—but not just for their own benefit: "In [human] minds are capable" but unable at this moment to use robots or algorithms as weapons against humanity…
+[Talks between Google executive chairman Eric Schmidt ] have been going very well over recent weeks; some say they will get back together soon enough before any formal announcements follow." In response , I pointed out many other times with respect toward previous studies like those conducted during my time working under Marc Breslow . These
+
